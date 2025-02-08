@@ -6,7 +6,7 @@ Standards-Version: 3.9.2
 Build-Depends: debhelper (>= 7.0.8), germinate (>= 1.18)
 
 Package: linuxbean-minimal
-Architecture: any
+Architecture: i386 amd64 arm64
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: Minimal core of linuxBean Community
@@ -23,7 +23,7 @@ Description: Minimal core of linuxBean Community
  it not be removed.
 
 Package: linuxbean-standard
-Architecture: any
+Architecture: i386 amd64 arm64
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: The linuxBean Community standard system
@@ -35,7 +35,7 @@ Description: The linuxBean Community standard system
  it not be removed.
 
 Package: linuxbean-desktop
-Architecture: any
+Architecture: i386 amd64 arm64
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: The linuxBean Community desktop system
