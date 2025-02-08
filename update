@@ -10,4 +10,6 @@ if ! which debootstrap >/dev/null; then
 	exit 1
 fi
 
-exec germinate-update-metapackage --vcs
+# TODO Remove --nodch when this source gets ready
+#exec germinate-update-metapackage --vcs
+exec germinate-update-metapackage --vcs --nodch
