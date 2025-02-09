@@ -35,7 +35,6 @@ gparted
 gpicview
 gprename
 grsync
-grub-customizer
 gsmartcontrol
 gstreamer0.10-alsa
 gstreamer1.0-alsa
@@ -49,7 +48,6 @@ im-switch
 imagemagick
 inputattach
 isomaster
-jd
 jstest-gtk
 leafpad
 libfreetype6
@@ -74,7 +72,6 @@ pcmanfm
 pcsxr
 rfkill
 searchmonkey
-skippy-xd
 software-properties-gtk
 sylpheed
 synaptic
