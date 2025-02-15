@@ -1,6 +1,7 @@
 alsa-base
 alsa-utils
 anacron
+arandr
 asunder
 bc
 bleachbit
@@ -73,6 +74,7 @@ searchmonkey
 software-properties-gtk
 sylpheed
 synaptic
+sysv-rc-conf
 ttf-unifont
 ubuntu-drivers-common
 ubuntu-extras-keyring
